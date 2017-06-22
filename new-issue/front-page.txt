@@ -5,25 +5,24 @@ June 27, 2016
 Serving you daily printed news since before newspapers went online.
 
 ## Local News
-* headline
-* headline
+* Cat stuck in Tree
+* Cat show going on at city center
 
 ## Sports
-* headline
-* headline
+* Moonauts slaughtered crows
 
 ## Culture
-* headline
-* headline
+* Sodoku craze!
+* Spiderman spotted again
 
 ## Weekly Weather
-Sunday:    REPLACE
-Monday:    REPLACE
-Tuesday:   REPLACE
-Wednesday: REPLACE
-Thursday:  REPLACE
-Friday:    REPLACE
-Saturday:  REPLACE
+Sunday:    hot and humid
+Monday:    hot and humid
+Tuesday:   hot and humid
+Wednesday: hot and humid
+Thursday:  hot and humid
+Friday:    hot and humid
+Saturday:  rainy and humid
 
 June 27, 2016
 25 cents
